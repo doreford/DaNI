@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // hello
 #include <cstdlib> // для system
 using namespace std;
 
